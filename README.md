@@ -1,4 +1,4 @@
-# Everyone-can-use-WAAPI（人人都能用 WAAPI）
+# Everyone-Can-Use-WAAPI（人人都能用 WAAPI）
 All codes of *Everyone Can Use WAAPI*, code comments are in English.
 
 中文版阅读地址：
