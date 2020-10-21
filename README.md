@@ -1,5 +1,5 @@
 # Everyone-can-use-WAAPI（人人都能用 WAAPI）
-All codes of *Everyone can use WAAPI*, code comments are in English.
+All codes of *Everyone Can Use WAAPI*, code comments are in English.
 
 中文版阅读地址：
 1. Audiokinetic 官网：[人人都能用 WAAPI（一）概述](https://blog.audiokinetic.com/zh/everyone-can-use-waapi-overview/)
