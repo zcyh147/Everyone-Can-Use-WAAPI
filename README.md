@@ -1,7 +1,7 @@
 # Everyone-Can-Use-WAAPI（人人都能用 WAAPI）
 The main purpose of this series of articles is to introduce the use of WAAPI (Wwise Authoring API) in a clear and easy-to-learn perspective, hoping to reduce the confusion of beginners when using WAAPI for the first time.
 
-This repository contains all the code in *Everyone Can Use WAAPI*, and all code comments are in English.
+This repository contains all the code in *Everyone Can Use WAAPI* series, and all code comments are in English.
 
 **中文版阅读地址：**
 1. Audiokinetic 官网：[人人都能用 WAAPI（一）概述](https://blog.audiokinetic.com/zh/everyone-can-use-waapi-overview/)
