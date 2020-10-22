@@ -1,5 +1,5 @@
 # Everyone-Can-Use-WAAPI（人人都能用 WAAPI）
-The main purpose of this series of articles is to introduce the use of WAAPI (Wwise Authoring API) from a clear and easy-to-learn perspective, hoping to reduce the confusion of beginners when using WAAPI for the first time.
+The main purpose of this series of articles is to introduce the use of WAAPI (Wwise Authoring API) in a clear and easy-to-learn perspective, hoping to reduce the confusion of beginners when using WAAPI for the first time.
 
 All codes of *Everyone Can Use WAAPI*, code comments are in English.
 
