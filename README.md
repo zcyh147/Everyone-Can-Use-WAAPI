@@ -8,7 +8,7 @@ This repository contains all the code in *WAAPI is for Everyone* series, and all
 2. Audiokinetic Blog: [WAAPI is for Everyone | Part 1: Overview](https://blog.audiokinetic.com/everyone-can-use-waapi-overview/)、[WAAPI is for Everyone | Part 2: wwise.core](https://blog.audiokinetic.com/everyone-can-use-waapi-wwise-core/)
 
 **日本語版：**
-1. Audiokinetic ブログ：[誰でも使えるWAAPI　パート1: 概要](https://blog.audiokinetic.com/ja/everyone-can-use-waapi-overview/)
+1. Audiokinetic ブログ：[誰でも使えるWAAPI　パート1: 概要](https://blog.audiokinetic.com/ja/everyone-can-use-waapi-overview/)、[誰でも使えるWAAPI　パート2: wwise.core](https://www.audiokinetic.com/ja/blog/everyone-can-use-waapi-wwise-core/)
 
 **中文版：**
 1. Audiokinetic 官网：[人人都能用 WAAPI（一）概述](https://blog.audiokinetic.com/zh/everyone-can-use-waapi-overview/)、[人人都能用 WAAPI（二）wwise.core 分支](https://blog.audiokinetic.com/zh/everyone-can-use-waapi-wwise-core/)、[人人都能用 WAAPI（三）Functions（执行类 API）剩余部分及 Topics（订阅类 API）](https://blog.audiokinetic.com/zh/everyone-can-use-waapi-functions-and-topics/)
